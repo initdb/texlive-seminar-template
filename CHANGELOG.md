@@ -1,29 +1,11 @@
 # Changelog
-## [1.0.2] - 2021-10-08
-### Changed
-- updated readme
-
-
-## [1.0.1] - 2021-10-08
-### Added
-- repo as template
-
-### Fixed
-- release build
-
-### Changed
-- updated changelog
-
 ## [1.0.0] - 2021-10-08
 ### Added
-- Glob pattern support
-- Unit Tests
-- Log version
+- seminar template
+- some files from thesis template
 
 ### Fixed
-- Exception on margins larger than context of changelog
-- Nil pointer exception in 'release' package
+- build
 
 ### Changed
-- Refactor JavaScript wrapper
-
+- repo structure

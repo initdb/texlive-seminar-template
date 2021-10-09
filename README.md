@@ -1,5 +1,5 @@
 # texlive-thesis-template
-This repository contains the LaTeX [template](https://www.th-rosenheim.de/die-hochschule/fakultaeten-institute/fakultaet-fuer-informatik/studienorganisation/abschlussarbeit/)
+This repository contains the seminar LaTeX [template](https://www.th-rosenheim.de/die-hochschule/fakultaeten-institute/fakultaet-fuer-informatik/studienorganisation/abschlussarbeit/)
 provided by the TH Rosenheim Faculty for computer science enhanced by some packages like minted...
 
 The template automates the build with github actions.
@@ -8,6 +8,7 @@ The template automates the build with github actions.
 
 # create and push a tag
 ```sh
+git push
 git tag 1.0.0
 git push origin 1.0.0
 ```
